@@ -30,3 +30,7 @@ the result.
 ```bash
 npm run build
 ```
+
+## Author
+
+**Tuyisenge Tito** ([@Tuyisenge2](https://github.com/Tuyisenge2))
